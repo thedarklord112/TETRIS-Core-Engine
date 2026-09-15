@@ -1,7 +1,21 @@
 # Tetris Logic Core Engine (Stateless Simulation)
 
-<img width="1024" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/7ab18723-1630-4064-83ee-3edc72d13dfb" />
-
+=============================================================================================
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+|                                            []                                             |
+|                                          [][]                                             |
+|                                          []                                               |
+|                                                                    [][][]                 |
+|                                                                      []                   |
+|[]                                                                                         |
+|[][]    []                                        [][][][]                                 |
+|[][][][][]                                    [][][][][][][]                               |
+|[][][][][][][][][][][]          [][][][][]    [][][][][][][][][][][]     []      [][][]    |
+|[][][][]        [][][][][][][][][][][][][][][][][][][][][][][][][][][]  [][][][][][][][][][|
 A production-grade, highly scalable, and object-oriented backend simulation engine that models the core gameplay mechanics of **Tetris**. Built entirely with clean **Python**, this repository focuses strictly on matrix transformation, 2D boundary collision parsing, and line-clear score routing without any heavy graphical overhead.
 
 ---
